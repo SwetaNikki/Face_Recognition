@@ -7,7 +7,9 @@ Table of contents
 2. Problem Statement
 3. Dataset
 4. Introduction
-5. Resources
+5. How to run
+6. Resources
+
 1. Installation
 This project was designed for:
 
@@ -36,7 +38,14 @@ neighboring pixel is done with the center pixel is done.
  If the neighbor pixel value is greater or equal (>=) to the 
 center pixel value than we will assign 1 and if the neighbor
  pixel is smaller (<) than the central pixel than assign 0.
+ 
+5. How to run
+ 1. download the datasets and make changes in the location of datasets in train and load file.
+ 2. directly run the load_image file , everyting I have linked , so there is no need to run each file
+    separately, load_image file is enough, if you want the attendance to be done through video then,
+    run load_video file.
+    Note: Make sure the file location is correctly done.
 
-5. Resources:
+6. Resources:
     https://www.youtube.com/watch?v=sz25xxF_AVE
     https://www.youtube.com/watch?v=ukL_UjrqZFw&t=306s
