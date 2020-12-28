@@ -10,14 +10,15 @@ Table of contents
 5. How to run
 6. Resources
 
-1. Installation
-This project was designed for:
 
-Python 3.6
-TensorFlow 1.12.0
+
+1. Installation
+   This project was designed for:
+   Python 3.6
+   TensorFlow 1.12.0
 
 2. Problem Statement:
-Design the image based capturing system using deep learning and computer vision.
+   Design the image based capturing system using deep learning and computer vision.
 
 3. Dataset: https://drive.google.com/file/d/12_WTFi9ppvD-loaWUWpUar25Z3nT5k9P/view
 
