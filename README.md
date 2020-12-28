@@ -10,8 +10,7 @@ Table of contents
 5. How to run
 6. Resources
 
-
-
+Steps: 
 1. Installation
    This project was designed for:
    Python 3.6
@@ -40,13 +39,13 @@ neighboring pixel is done with the center pixel is done.
 center pixel value than we will assign 1 and if the neighbor
  pixel is smaller (<) than the central pixel than assign 0.
  
-5. How to run
- 1. download the datasets and make changes in the location of datasets in train and load file.
- 2. directly run the load_image file , everyting I have linked , so there is no need to run each file
-    separately, load_image file is enough, if you want the attendance to be done through video then,
-    run load_video file.
-    Note: Make sure the file location is correctly done.
+5. How to run :
+   a. Download the datasets and make changes in the location of datasets in train and load file.
+   b. Directly run the load_image file , everyting I have linked , so there is no need to run each file
+      separately, load_image file is enough, if you want the attendance to be done through video then,
+      run load_video file.
+      Note: Make sure the file location is correctly done.
 
 6. Resources:
-    https://www.youtube.com/watch?v=sz25xxF_AVE
-    https://www.youtube.com/watch?v=ukL_UjrqZFw&t=306s
+    a. https://www.youtube.com/watch?v=sz25xxF_AVE
+    b. https://www.youtube.com/watch?v=ukL_UjrqZFw&t=306s
